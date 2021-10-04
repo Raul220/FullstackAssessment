@@ -1,0 +1,5 @@
+1- Mount the project on an apache server pointing to the "api / public" folder
+2- Install node_modules runin npm i in client folder
+3- Run npm npm start
+4- Chek that npm is runin in 'http://localhost:3000/'
+5- mount data base file in 'DB' folder, without server user and pass
